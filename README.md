@@ -109,8 +109,8 @@ http://localhost:8093/flow
 
 ### nice-to-have(s)
 + account deletion (`settings` page)
-+ automatic links for known TLDs
-+ autosubmit on password manager autofill (when username and password get filled quite quickly)
++ ~~automatic links for known TLDs~~
++ ~~autosubmit on password manager autofill (when username and password get filled quite quickly)~~
 + break lines on \n in posts
 + check for double posting same content
 + Ctrl+Enter to submit posts like YouTube
@@ -124,7 +124,7 @@ http://localhost:8093/flow
 + implement sessions (SessionsCache)
 + OAuth2
 + send verification e-mail
-+ show offline mode notification
++ ~~show offline mode notification~~
 + swagger docs
 + ~~test if dump dir writable (on init)~~ (chown included in Dockerfile)
 
