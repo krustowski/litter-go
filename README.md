@@ -110,21 +110,21 @@ http://localhost:8093/flow
 ### nice-to-have(s)
 + account deletion (`settings` page)
 + automatic links for known TLDs
-+ autosubmit on password manager autofill (when username and password get filled quite quickly)
++ autosubmit on password manager autofill - when username and password get filled quite quickly (Fred)
 + break lines on \n in posts
 + check for double posting same content
-+ Ctrl+Enter to submit posts like YouTube
++ Ctrl+Enter to submit posts like YouTube (Fred)
 + custom colour theme per user
 + deep code refactoring
 + fix NaN% when loading
-+ fix update indicator checker (runs only on once after reload)
-+ image uploads to gspace.gscloud.cz (via REST API POST)
++ fix update indicator checker (runs only once after reload)
++ image uploads to https://gspace.gscloud.cz (via REST API POST)
 + implement custom logger goroutine
-+ implement loading of new posts
++ implement loading of new posts / notification
 + implement sessions (SessionsCache)
-+ OAuth2
++ implement OAuth2
 + send verification e-mail
-+ show offline mode notification
++ ~~show offline mode notification~~
 + swagger docs
 + ~~test if dump dir writable (on init)~~ (chown included in Dockerfile)
 
